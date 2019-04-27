@@ -1,4 +1,4 @@
-// URL: https://www.urionlinejudge.com.br/judge/pt/runs/code/13969468
+// URL: https://www.urionlinejudge.com.br/judge/pt/problems/view/1161
 import java.util.Scanner;
 
 public class Main {
